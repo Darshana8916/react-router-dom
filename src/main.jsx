@@ -18,7 +18,6 @@ root.render(
         Contact
       </NavLink>
     </nav>
-
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
