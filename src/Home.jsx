@@ -6,7 +6,5 @@ export function Home() {
     </div>
 
 
-
-
   );
 }
